@@ -57,6 +57,8 @@ This project was developed as part of my coursework in **Computer Systems Engine
 ### Reference:
 I followed this [YouTube tutorial](https://youtu.be/qIbhkmTB8Q8?si=dj_vZdvYBaqzFFdl) to help complete this project.
 
+This project has been a great learning experience, strengthening my skills in network design and simulation. I’ve also created a detailed YouTube vlog explaining the entire process!
+👉 YouTube Vlog: [Watch My Vlog Here](https://youtu.be/0zQJY3nXtJ0?si=FFmz-YhlPet9iBid)
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
